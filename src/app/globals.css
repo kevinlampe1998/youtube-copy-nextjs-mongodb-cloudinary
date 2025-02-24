@@ -1,0 +1,17 @@
+:root, * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body {
+    background: #0f0f0f;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+nextjs-portal {
+    display: none;
+}
