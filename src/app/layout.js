@@ -19,9 +19,9 @@ export default function RootLayout({ children }) {
           <Header/>
           <Header2/>
           <SlideBar/>
-          <main>
+          {/* <main>
             {children}
-          </main>
+          </main> */}
         </body>
       </ContextProvider>
     </html>
